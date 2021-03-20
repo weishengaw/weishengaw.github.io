@@ -3,7 +3,7 @@
     "name":"Wei Sheng Aw",
     "occupation":"Computer Science Student",
     "description":"I'm a quantum thinker, a motivated engineer, and a self-improvement addict",
-    "image":"profilepic.jpg",
+    "image":"public/images/profilepic.jpg",
     "bio":"I am comfortable with C/C++, Java, JavaScript, and Python. My interests/specialties involve Machine Learning, Computer Vision, and the intersection between Psychology and Computer Science, and Art and Computer Science.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "weisheng.aw4@gmail.com",

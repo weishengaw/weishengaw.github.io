@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weishengaw/weishengaw.github.io.git/static/css/main.bab0b925.chunk.css",
+    "main.js": "/weishengaw/weishengaw.github.io.git/static/js/main.649e6622.chunk.js",
+    "main.js.map": "/weishengaw/weishengaw.github.io.git/static/js/main.649e6622.chunk.js.map",
+    "runtime-main.js": "/weishengaw/weishengaw.github.io.git/static/js/runtime-main.2818c37a.js",
+    "runtime-main.js.map": "/weishengaw/weishengaw.github.io.git/static/js/runtime-main.2818c37a.js.map",
+    "static/js/2.ed8ae567.chunk.js": "/weishengaw/weishengaw.github.io.git/static/js/2.ed8ae567.chunk.js",
+    "static/js/2.ed8ae567.chunk.js.map": "/weishengaw/weishengaw.github.io.git/static/js/2.ed8ae567.chunk.js.map",
+    "index.html": "/weishengaw/weishengaw.github.io.git/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/weishengaw/weishengaw.github.io.git/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.ed8ae567.chunk.js.LICENSE.txt": "/weishengaw/weishengaw.github.io.git/static/js/2.ed8ae567.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2818c37a.js",
+    "static/js/2.ed8ae567.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.649e6622.chunk.js"
+  ]
+}

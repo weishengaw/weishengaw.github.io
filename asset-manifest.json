@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weishengaw/weishengaw.github.io.git/static/css/main.bab0b925.chunk.css",
-    "main.js": "/weishengaw/weishengaw.github.io.git/static/js/main.649e6622.chunk.js",
-    "main.js.map": "/weishengaw/weishengaw.github.io.git/static/js/main.649e6622.chunk.js.map",
+    "main.js": "/weishengaw/weishengaw.github.io.git/static/js/main.bcfc82c8.chunk.js",
+    "main.js.map": "/weishengaw/weishengaw.github.io.git/static/js/main.bcfc82c8.chunk.js.map",
     "runtime-main.js": "/weishengaw/weishengaw.github.io.git/static/js/runtime-main.2818c37a.js",
     "runtime-main.js.map": "/weishengaw/weishengaw.github.io.git/static/js/runtime-main.2818c37a.js.map",
     "static/js/2.ed8ae567.chunk.js": "/weishengaw/weishengaw.github.io.git/static/js/2.ed8ae567.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2818c37a.js",
     "static/js/2.ed8ae567.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.649e6622.chunk.js"
+    "static/js/main.bcfc82c8.chunk.js"
   ]
 }

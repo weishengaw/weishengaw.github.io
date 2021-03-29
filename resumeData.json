@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Wei Sheng Aw",
+    "occupation":"Computer Science Student",
+    "description":"I'm a quantum thinker, a motivated engineer, and a self-improvement addict",
+    "image":"profilepic.JPG",
+    "bio":"I am comfortable with C/C++, Java, JavaScript, and Python. My interests/specialties involve Machine Learning, Computer Vision, and the intersection between Psychology and Computer Science, and Art and Computer Science.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "weisheng.aw4@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Seattle",
+      "state":"Washington",
+      "zip": ""
+    },
+    "website": "https://weishengaw.github.io/",
+    "resumedownload":"https://drive.google.com/file/d/1KxSirkJPqGV79y31HE8AXPmz8DOEL-ax/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/DevWeiSheng",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/weishengaw/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/wheysheng/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/weishengaw",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills are based on self-evaluation of confidence and experience",
+    "education":[
+      {
+        "school":"University of Washington",
+        "degree":"Bachelor's of Arts and Sciences in Computer Science",
+        "graduated":"June 2022",
+        "description":"GPA 3.81. Direct Admit to the Allen School of Computer Science. Studied for 2 years with classes in Number Theory, Probability and Statistics for Computer Science, Algorithms, and Data Structures."
+      },
+      {
+        "school":"Bellevue College",
+        "degree":"Running Start",
+        "graduated":"June 2020",
+        "description":"Early college/Running Start program in high school. Completed 2 years worth of college classes, accelerating the University degree"
+      }
+    ],
+    "work":[
+      {
+        "company":"Seattle Badminton Club",
+        "title":"Badminton Assistant Coach",
+        "years":"September 2020 - Present",
+        "description":"Worked to coach multiple competitive badminton youth teams."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+      
+      {
+        "title":"Stock Price Predictor",
+        "category":"Machine Learning Stock Price Predictor",
+        "image":"stock.jpg",
+        "url":"https://github.com/weishengaw/Stock-Change-Predictor"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}

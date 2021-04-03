@@ -49,7 +49,7 @@
         "school":"University of Washington",
         "degree":"Bachelor's of Arts and Sciences in Computer Science",
         "graduated":"June 2022",
-        "description":"GPA 3.81. Direct Admit to the Allen School of Computer Science. Studied for 2 years with classes in Number Theory, Probability and Statistics for Computer Science, Algorithms, and Data Structures."
+        "description":"GPA 3.86. Direct Admit to the Allen School of Computer Science. Studied for 2 years with classes in Number Theory, Probability and Statistics for Computer Science, Algorithms, and Data Structures."
       },
       {
         "school":"Bellevue College",
@@ -102,6 +102,12 @@
         "category":"Machine Learning Stock Price Predictor",
         "image":"stock.jpg",
         "url":"https://github.com/weishengaw/Stock-Change-Predictor"
+      },
+      {
+        "title": "InternShippings",
+        "category": "Internship Counter",
+        "image": "anchoricon.png",
+        "url": "https://weishengaw.github.io/InternShips/"
       }
     ]
   },
